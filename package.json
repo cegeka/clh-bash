@@ -21,6 +21,8 @@
     },
     "dependencies": {
         "@tweenjs/tween.js": "^17.2.0",
+        "browser-sync": "^2.4.0",
+        "compression": "^1.7.3",
         "howler": "^2.1.1",
         "ismobilejs": "^0.5.1",
         "lodash": "^4.17.11",
